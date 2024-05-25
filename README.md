@@ -9,6 +9,28 @@ Sou um jovem apaixonado por tecnologia e atualmente sou estudante de Engenharia 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/559884022032)
 ---
 
+## ⚒ Hardskills / Habilidades
+
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+### GitHub Status
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LouisCharlles&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LouisCharlles&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
+
+---
+
 ### Sobre mim
 
 
@@ -31,27 +53,7 @@ Sou um jovem apaixonado por tecnologia e atualmente sou estudante de Engenharia 
 
 - Since i was little, I have always felt a greater affinity with technology and how easy it was for me to handle it and develop logical solutions. For this reason I decided to study to become a developer.
 
-## ⚒ Hardskills / Habilidades
 
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
----
-### GitHub Status
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LouisCharlles&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LouisCharlles&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
-
----
 
 ## 📚Cursos e bootcamps
 

@@ -25,7 +25,7 @@
 
 <h2>🌟 Status do GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LouisCharlles&layout=donut&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF" alt="Top Langs"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisCharlles&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />  
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=LouisCharlles&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github" alt="GitHub Stats"/>
 </p>

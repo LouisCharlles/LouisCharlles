@@ -1,3 +1,5 @@
+<p align="right">🇧🇷 Português · <a href="./README.en.md">🇺🇸 English</a></p>
+
 <h1 align="center">Luis Carlos Macêdo Moreira</h1>
 
 <p align="center">
